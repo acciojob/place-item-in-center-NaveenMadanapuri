@@ -1,27 +1,21 @@
 /* 
 /* Your CSS Code here. */
-/* .holder{
+.holder{
+	width:100vw;
+	height:100vh;
 	display:flex;
 	justify-content:center;
 	align-items:center;
 }
 .item item-1{
-	 width: 100px;
-    height: 100px;
-    background-color: red;
-} */ 
-body{
-	  margin:0;
-	padding:0;
-	 
-}
-.holder{
-	 
-	display:flex;
-	justify-content:center;
-	align-items: center;
-	border: 1px solid black;
-	height:450px;
+	 width: 100px;            
+    height: 100px;           
+    background-color: red;    
+    display: flex;           
+    justify-content: center; 
+    align-items: center;   
+} 
+
 	
 	
 
